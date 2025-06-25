@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://uzzal721.github.io/gentrymedia-seo/sitemap.xml
